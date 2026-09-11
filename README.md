@@ -29,3 +29,23 @@
 - GitHub Pages
 
 ## 📁 Структура
+
+my_site/
+├── index.html   # основная страница
+├── logo.png     # логотип
+└── README.md    # документация
+
+## 🚀 Локальный запуск
+
+Просто открой `index.html` в браузере. Или через любой локальный сервер:
+
+```bash
+python -m http.server 8000
+```
+
+Затем открой http://localhost:8000.
+
+📬 Контакты
+
+· Telegram: @west_coder
+· GitHub: furios114
